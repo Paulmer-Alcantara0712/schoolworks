@@ -1,0 +1,33 @@
+body{
+    background: teal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.form-control{
+
+    height: 25px;
+    border-radius: 5px;
+    padding: 4px;
+    border: solid thin #aaa;
+    width: 75%;
+}
+
+    .btn_btn-primary{
+        
+    padding: 10px;
+    width: 100px;
+    color: white;
+    background-color: lightblue;
+    border: none;
+}
+
+   .next{
+        
+    background-color: grey;
+    margin: auto;
+    width: 300px;
+    padding: 4px;
+    
+}
+.wrapper{
+    text-align: center;
+}

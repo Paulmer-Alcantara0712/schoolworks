@@ -1,0 +1,55 @@
+body{
+	background-image: url(plat.jpg);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 950px;
+}
+*{
+	font-family: MADESoulmaze;
+	box-sizing: border-box;
+}
+h1{
+	text-align: center;
+	margin-bottom: 40px;
+
+}
+form{
+	width:  500px;
+	border: 3px solid #ff726f;
+	padding: 100px;
+	background: #F2F3F4;
+	border-radius: 20px;
+}
+button{
+	display: block;
+	border: 2px solid #ccc;
+	width: 50%;
+	padding: 10px;
+	margin: 10px auto;
+	top: 150%;
+}
+.validation{
+	background: #171717;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	width: 90%;
+	border-radius: 5px;
+	margin: 20px auto;
+	font-family: CrimsonText;
+}
+label{
+	color: red;
+	font-size: 20px;
+	padding: 10px;
+	font-family: redwing;
+
+}
+input{
+	display: block;
+	border: 1px solid #ccc;
+	width:  95%;
+	padding: 10px;
+	margin: 10px auto;
+}
